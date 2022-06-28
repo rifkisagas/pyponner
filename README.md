@@ -1,2 +1,2 @@
-# pyponner
+# PyPonner
 Simple Python Port Scanner
