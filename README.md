@@ -6,8 +6,8 @@ A Simple Port Scanner using socket library in python which is intended to be an 
 - [x] All TCP/UDP ports can be scanned
 
 ## Tool Preview
-![]([https://github.com/rifkisagas/pyponner/pyponnerpreview.gif](https://github.com/rifkisagas/pyponner/blob/main/pyponnerpreview.gif))
-*Added MANY error handling features
+![]([https://github.com/rifkisagas/pyponner/pyponnerpreview.gif])
+*Added error handling features
 
 ## Installation and Usage (Linux)
     git clone https://github.com/rifkisagas/pyponner
