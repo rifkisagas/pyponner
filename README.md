@@ -5,7 +5,7 @@ A Simple Port Scanner using socket library in python which is intended to be an 
 - [x] Multiple Scan Feature
 - [x] All TCP/UDP ports can be scanned
 
-## Installation and Usage
+## Installation and Usage (Linux)
     git clone https://github.com/rifkisagas/pyponner
     
     cd pyponner  
@@ -14,3 +14,4 @@ A Simple Port Scanner using socket library in python which is intended to be an 
     
     python pyponner.py
     
+*Please don't use for illegal activity!
